@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **position in company**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-ten-phi-53.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://yasser-portfolio.vercel.app/)
 
 - 💬 Ask me about **javascript, react and redux**
 
 - 📫 How to reach me **siryasser2020@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/18mkg1-oKRXldoRppVuMo36ubec3COclo/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/14kmiSJzZPq3RFSoLKko3hdiaUw002wdG/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
